@@ -2,7 +2,7 @@ database:
   host: "localhost"
   port: 5432
   user: "postgres"
-  password: "Netradyne123"
+  password: "your-password"
   dbname: "todoapp"  
 redis:
   host: "localhost"
